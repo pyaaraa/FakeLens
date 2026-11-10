@@ -1,13 +1,17 @@
-# DeepFake-Video-Detection
+# FakeLens — Deepfake Video Detection
 
-A deep learning-based system for detecting manipulated and synthetic videos (deepfakes).
-<br>For trained weights email me at aakash142017@gmail.com
+A deep learning project for detecting manipulated and synthetic videos (deepfakes) through an enhanced contrastive-learning pipeline.
+
+## Author
+
+Developed by Aakash (pyaaraa). For trained weights, contact `aakash142017@gmail.com`.
+
 ## Overview
 
-This project implements the pipeline to identify artificially generated or manipulated video content. With the rise of sophisticated deepfake technology, this tool aims to provide reliable detection model to combat misinformation.
+FakeLens implements a staged workflow for identifying artificially generated or manipulated video content. It includes contrastive representation learning, pseudo-label generation, binary classification, evaluation utilities, and experiment artifacts. The project aims to support reliable deepfake detection and help combat misinformation.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-For a detailed explantion of the project please refer to the <a href="https://github.com/pyaaraa/FakeLens/blob/main/dfd.pdf">dfd.pdf</a> file in the repository
+For a detailed explanation, see [dfd.pdf](dfd.pdf).
